@@ -1,0 +1,41 @@
+Theory of Brownian
+[1] M.F.M. Osborne, Brownian motion in the stock market, Oper. Res. 7 (1959) 145±173.
+[2] M.F.M. Osborne, Reply to `` `Comments on `Brownian motion in the stock market' '', Oper. Res. 7 (1959) 807.
+[3] A.G. Laurent, Comments on ``Brownian motion in the stock market'', Oper. Res. 7 (1959) 806±807.
+[4] B. Malkiel, A Random Walk Down Wall Street, Norton, New York, 1990.
+[5] B.B. Mandelbrot, The Fractal Geometry of Nature, Freeman, San Francisco, CA, 1982.
+[6] B.B. Mandelbrot, Fractals and Scaling in Finance; Discontinuity, Concentration, Risk, Springer, New York, 1998.
+[7] R.F. Voss, 1f noise and fractals in economic time series, in: J.L. Encarnacao, H.O. Peitgen, G. Sakas, G. Englert (Eds.), Fractal Geometry and Computer Graphics, Springer, New York, 1992, pp. 45±52.
+[8] W.A. Brock, A.G. Malliaris, Di?erential Equations, Stability and Chaos in Dynamic Economics, North-Holland, Amsterdam,1989.
+[9] W.A. Brock, D.A. Hsieh, B. LeBaron, Nonlinear Dynamics, Chaos, and Instability: Statistical Theory and Economic Evidence,MIT Press, Massachusetts, MA, 1991.
+[10] G. Papaioannou, A. Karytinos, Nonlinear time series analysis of the stock exchange: The case of an emerging market, Int. J.Bifurcation Chaos 5 (1995) 1557±1584.
+[11] A.H. Abhyankar, L.S. Copeland, W. Wong, Uncovering nonlinear structure in real-time stock-market indexes: The S&P 500 index, the DAX, the Nikkie 225 and the FTSE-100, Journal of Business and Economic Statistics 15 (1997) 1±14.
+
+Scaling Behavior
+
+[24] R.N. Mantegna, H.E. Stanley, Scaling behavior in the dynamics of an economic index, Nature 376 (1995) 46±49.
+[25] C.J.G. Everetsz, Fractal geometry of ®nancial time series, Fractals 3 (1995) 609±616.
+[26] R.N. Mantegna, H.E. Stanley, Turbulence and ®nancial markets, Nature 376 (1996) 587±588.
+[27] A. Arneodo, J.-P. Bouchaud, R. Cond, J.-F. Muzy, M. Potters, D. Sornette, Comment on ``Turbulent cascades in foreign exchange markets'', preprint cond-mat/9607120, 1996.
+[28] S. Ghashghaie, W. Breymann, J. Peinke, P. Talkner, Y. Dodge, Turbulent cascades in foreign exchange markets, Nature 381 (1996) 767±770.
+[29] R. Cont, Scaling and correlation in ®nancial data, preprint cond-mat/9705075v3, 1997.
+[30] R. Cont, M. Potters, J.-P. Bouchaud, Scaling in stock market data: stable lows and beyond, preprint cond-mat/9705087, 1997.
+[31] J. Rotyis, G. Vattay, Statistical analysis of the stock index of the Budapest stock exchange, preprint cond-mat/9711008, 1997.
+
+Self-criticality
+[32] P. Bak, K. Chen, M. Creutz, Self-organized criticality in the game of life, Nature 342 (1989) 780±782.
+[33] P. Bak, K. Chen, Self-organized criticality, Scienti®c American 264 (1991) 26±33.
+[34] W. Li, Absence of 1f spectra in Dow Jones average, Int. J. Bifurcation Chaos 1 (1991) 583±597.
+[35] M.F. Shlesinger, G.M. Zaslavsky, J. Klafter, Strange kinetics, Nature 363 (1993) 31±37.
+
+Self-organized criticality (SOC)
+[1] P. Bak, et al., Phys. Rev. Lett. 59 (1987) 381;
+[1] P. Bak, et al., Phys. Rev. A 38 (1988) 364.
+[2]H.J. Jensen, Self-Organized Criticality: Emergent Complex Behavior in Physical and Biological Systems, Cambridge University Press, Cambridge, 1998.
+[3]L. Turcotte, Rep. Prog. Phys. 62 (1999) 1377.
+[10] P. Bak, et al., Ric. Econ. 47 (1993) 3.
+[11] P. Bak, et al., Physica A 246 (1997) 430.
+[12] J. Feigenbaum, Rep. Prog. Phys. 66 (2003) 1611
+[15] S. Ghashghaie, et al., Nature 381 (1996) 767.
+[16] R.N. Mantegna, H.E. Stanley, Physica A 239 
+
